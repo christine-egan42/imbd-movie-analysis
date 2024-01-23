@@ -73,7 +73,7 @@ Determining an appropriate budget that will manage costs while maximizing return
 Discovering potential competition   
 
 (Fig. 2.1.1)   
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/heatmap.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/heatmap.png)
 
 ### The Categories   
 #### Slow-but-Steady
@@ -93,52 +93,52 @@ High-risk/high-reward projects projects generate smaller profit margins, but lar
 * When these movies are done right, they provide high-revenues which enrich the studios, while simultaneously earning the studio acclaim.    
 
 (Fig 2.2.1)      
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/genre_all_profit.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/genre_all_profit.png)
 
 ### The Recommendations
 #### High-Risk/High-Reward
 **What kind of movie should we make?**     
 When choosing high-risk/high-reward projects, action and adventure moves that are live-action and superhero oriented do exetremely well.        
 (Fig 2.2.4)      
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/hr_ct.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/hr_ct.png)
 
 **How much should we spend?**     
 Historically, budgets below 2 billion dollars seem to be the safest, but there is more competition in that range.    
 While there is little connection between an increase in spending an increase in ROI, actual returns sky-rocket as budgets increase.      
 (Fig 2.3.1)    
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/hr_budget_roi.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/hr_budget_roi.png)
 
 While there is little connection between an increase in spending an increase in ROI, actual returns sky-rocket as budgets increase.(Fig 2.3.2)    
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/hr_budget_net.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/hr_budget_net.png)
 
 **Who are we competing with?**     
 Walt Disney seems to have mastered making a few high-risk films that earn a lot of money, especially when it comes to to actions movies that are live-action/animation hybrids centered around superheroes, or animated musicals.
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/wd_net.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/wd_net.png)
 
 ### Low-Risk/Low-Reward
 **What kind of movie should we make?**     
 When choosing low-risk/low-reward projects, live-action movies in horror, thriller-suspense, comedy, and drama are clear winners in ROI. (Fig 2.2.4)      
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/lr_budget_roi.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/lr_budget_roi.png)
 
 **How much should we spend?**     
 Historically, budgets below 75 million dollars seem to have good returns, but above that amount, ROI seems to tank. (Fig 2.3.3)     
 While there is little connection between an increase in spending an increase in ROI, actual returns sky-rocket as budgets increase.         
 (Fig 2.3.3)    
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/hr_budget_roi.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/hr_budget_roi.png)
 
 **Who are we competing with?**
 Warner Bros churns out a lot films, with an impressive net and ROI. (Fig. 2.4.1)    
 They seem to have a clear advantage in comedy.  (Fig. 2.4.2)     
 (Fig. 2.4.2)     
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/wb_net.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/wb_net.png)
 
 #### How should the categories be divided?
 (Fig. 2.4.1)     
-![df_heatmap](https://github.com/xinegan88/the-winning-formula/blob/master/images/dist_roi_net.png)     
+![df_heatmap](https://github.com/christine-egan42/the-winning-formula/blob/master/images/dist_roi_net.png)     
 
 Among all of the studios, Universal seems to have mastered a balance of high-risk/high-reward films with low-risk/low-reward films. By examining Universal's genre breakdown, it seems to indicate that approximately 35% are high-risk projects, and 60% are low-risk projects with the remaining 5% being represented by other genres. Based on this, we recommend choosing 35% high-risk projects and 65% low-risk projects.      
 (Fig. 2.4.4)     
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/universal_net.png)
+![df_heatmap](https://github.com/christine-egan42/some_files/blob/master/universal_net.png)
 
 ### Part 3: Additional Files 
 a) A PDF of our presentation of The Winning Formula for non-technical stake-holders. (presentation.pdf)       

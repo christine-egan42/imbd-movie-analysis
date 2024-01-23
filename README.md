@@ -73,7 +73,7 @@ Determining an appropriate budget that will manage costs while maximizing return
 Discovering potential competition   
 
 (Fig. 2.1.1)   
-![df_heatmap](https://github.com/christine-egan42/imbd-movie-analysis/tree/main/images/heatmap.png)
+[![df_heatmap](https://github.com/christine-egan42/imbd-movie-analysis/tree/main/images/heatmap.png)](https://github.com/christine-egan42/imbd-movie-analysis/blob/e9285da0568c6b444d3f1140bfdc239dfc8c0d2e/images/heatmap.png)
 
 ### The Categories   
 #### Slow-but-Steady

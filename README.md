@@ -1,4 +1,4 @@
-# The Winning Formula
+# The Winning Formula (IMBD Movie Revenue Analysis)
 ## *A systematic strategy for success in the movie industry*
 
 In this exercise, our group was charged with developing a strategy that Microsoft could use to successfully break into the movie industry. Our approach to this included gathering data about the movie industry that could be examined to reveal valuable insights, which we combined in order to develop *The Winning Formula*. *The Winning Formula* provides a clear course of action that will allow Microsoft to effectively designate their resources in order to secure success.
